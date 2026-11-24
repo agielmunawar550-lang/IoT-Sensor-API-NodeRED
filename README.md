@@ -1,4 +1,33 @@
 
+# TUGAS PRAKTIK IoT SENSOR API
+
+## Dokumentasi Proyek Node-RED
+
+Proyek ini merupakan implementasi IoT Sensor API menggunakan Node-RED.
+
+### 1. Dokumentasi Flow Node-RED
+
+![Flow Node-RED](<dokumentasi/WhatsApp Image 2026-11-24 at 22.31.19.jpeg>)
+
+### 2. Pengujian Sistem
+
+![Pengujian Sistem](<dokumentasi/WhatsApp Image 2026-11-24 at 22.31.30.jpeg>)
+
+### 3. Dashboard Monitoring
+
+![Dashboard Monitoring](<dokumentasi/WhatsApp Image 2026-11-24 at 22.31.45.jpeg>)
+
+### 4. Hasil Pengujian
+
+![Hasil Pengujian](<dokumentasi/WhatsApp Image 2026-11-24 at 22.32.12.jpeg>)
+
+## Teknologi yang Digunakan
+- Node-RED
+- REST API
+- MQTT
+- Dashboard 2.0
+- Chart.js
+
 # IoT Sensor API - Node-RED
 
 ## Deskripsi
